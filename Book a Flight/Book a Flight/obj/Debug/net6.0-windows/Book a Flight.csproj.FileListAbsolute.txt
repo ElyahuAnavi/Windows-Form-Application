@@ -1,0 +1,18 @@
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\bin\Debug\net6.0-windows\Book a Flight.exe
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\bin\Debug\net6.0-windows\Book a Flight.deps.json
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\bin\Debug\net6.0-windows\Book a Flight.runtimeconfig.json
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\bin\Debug\net6.0-windows\Book a Flight.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\bin\Debug\net6.0-windows\Book a Flight.pdb
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book_a_Flight.MainForm.resources
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.csproj.GenerateResource.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.AssemblyInfoInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.AssemblyInfo.cs
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.sourcelink.json
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\refint\Book a Flight.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.pdb
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book a Flight.genruntimeconfig.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\ref\Book a Flight.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Book a Flight\Book a Flight\obj\Debug\net6.0-windows\Book_a_Flight.LoginForm.resources
