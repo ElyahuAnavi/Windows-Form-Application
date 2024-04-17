@@ -71,6 +71,7 @@
             tbPassword.Name = "tbPassword";
             tbPassword.Size = new Size(276, 26);
             tbPassword.TabIndex = 1;
+            tbPassword.KeyPress += textPassword_Key;
             // 
             // btnLogin
             // 
@@ -94,6 +95,7 @@
             btnReset.TabIndex = 2;
             btnReset.Text = "Reset";
             btnReset.UseVisualStyleBackColor = true;
+            btnReset.Click += btnReset_Click;
             // 
             // LoginForm
             // 

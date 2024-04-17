@@ -19,13 +19,18 @@ namespace Book_a_Flight
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            Login();
+        }
+
+        private void Login()
+        {
             string userName = tbUserName.Text;
             string password = tbPassword.Text;
 
             if (userName.Equals("!25") && password.Equals("123456"))
             {
                 this.DialogResult = DialogResult.OK;
-                this.Close(); 
+                this.Close();
             }
             else
             {
@@ -33,5 +38,26 @@ namespace Book_a_Flight
             }
         }
 
+        private void ResetForm()
+        {
+            tbUserName.Text = "";
+            tbPassword.Text = "";
+        }
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            ResetForm();
+        }
+
+        private void textPassword_Key(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                Login();
+            }
+            if (e.KeyChar == (char)Keys.Escape)
+            {
+                ResetForm();
+            }
+        }
     }
 }
