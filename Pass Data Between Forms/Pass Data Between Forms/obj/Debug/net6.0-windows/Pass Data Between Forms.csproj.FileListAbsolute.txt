@@ -1,0 +1,17 @@
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\bin\Debug\net6.0-windows\Pass Data Between Forms.exe
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\bin\Debug\net6.0-windows\Pass Data Between Forms.deps.json
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\bin\Debug\net6.0-windows\Pass Data Between Forms.runtimeconfig.json
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\bin\Debug\net6.0-windows\Pass Data Between Forms.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\bin\Debug\net6.0-windows\Pass Data Between Forms.pdb
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass_Data_Between_Forms.SignUpForm.resources
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.csproj.GenerateResource.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.AssemblyInfoInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.AssemblyInfo.cs
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.sourcelink.json
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\refint\Pass Data Between Forms.dll
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.pdb
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\Pass Data Between Forms.genruntimeconfig.cache
+C:\Users\Elyahu\Desktop\ely github\Windows-Form-Application\Pass Data Between Forms\Pass Data Between Forms\obj\Debug\net6.0-windows\ref\Pass Data Between Forms.dll

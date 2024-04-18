@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAF6564-27AF-4B2F-B934-09383945F27C}|Pass Data Between Forms\\Pass Data Between Forms.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\pass data between forms\\pass data between forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAF6564-27AF-4B2F-B934-09383945F27C}|Pass Data Between Forms\\Pass Data Between Forms.csproj|solutionrelative:pass data between forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAF6564-27AF-4B2F-B934-09383945F27C}|Pass Data Between Forms\\Pass Data Between Forms.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\pass data between forms\\pass data between forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADAF6564-27AF-4B2F-B934-09383945F27C}|Pass Data Between Forms\\Pass Data Between Forms.csproj|solutionrelative:pass data between forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAF6564-27AF-4B2F-B934-09383945F27C}|Pass Data Between Forms\\Pass Data Between Forms.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\pass data between forms\\pass data between forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAF6564-27AF-4B2F-B934-09383945F27C}|Pass Data Between Forms\\Pass Data Between Forms.csproj|solutionrelative:pass data between forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\Pass Data Between Forms\\Program.cs",
+              "RelativeDocumentMoniker": "Pass Data Between Forms\\Program.cs",
+              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\Pass Data Between Forms\\Program.cs",
+              "RelativeToolTip": "Pass Data Between Forms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:47:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\Pass Data Between Forms\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "Pass Data Between Forms\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\Pass Data Between Forms\\SignUpForm.cs*",
+              "RelativeToolTip": "Pass Data Between Forms\\SignUpForm.cs*",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:44:07.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\Pass Data Between Forms\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "Pass Data Between Forms\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Pass Data Between Forms\\Pass Data Between Forms\\SignUpForm.cs [Design]*",
+              "RelativeToolTip": "Pass Data Between Forms\\SignUpForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:06:43.485Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

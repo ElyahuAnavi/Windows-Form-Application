@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|c:\\users\\elyahu\\desktop\\ely github\\windows-form-application\\book a flight\\book a flight\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{1B53E193-392E-4576-89BD-5BAC4EFE82D2}|Book a Flight\\Book a Flight.csproj|solutionrelative:book a flight\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,99 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Book a Flight\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.cs",
-              "RelativeToolTip": "Book a Flight\\LoginForm.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAD4vzgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T05:33:53.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\MainForm.cs",
-              "RelativeDocumentMoniker": "Book a Flight\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\MainForm.cs [Design]",
-              "RelativeToolTip": "Book a Flight\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T04:19:06.572Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "Book a Flight\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.Designer.cs",
-              "RelativeToolTip": "Book a Flight\\LoginForm.Designer.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAYwGIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T06:21:34.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\Program.cs",
-              "RelativeDocumentMoniker": "Book a Flight\\Program.cs",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\Program.cs",
-              "RelativeToolTip": "Book a Flight\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T05:08:19.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Book a Flight\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.cs [Design]",
-              "RelativeToolTip": "Book a Flight\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T05:16:45.799Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\MainForm.cs",
-              "RelativeDocumentMoniker": "Book a Flight\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\MainForm.cs",
-              "RelativeToolTip": "Book a Flight\\MainForm.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvyQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T04:19:24.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginForm.resx",
-              "DocumentMoniker": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.resx",
-              "RelativeDocumentMoniker": "Book a Flight\\LoginForm.resx",
-              "ToolTip": "C:\\Users\\Elyahu\\Desktop\\ely github\\Windows-Form-Application\\Book a Flight\\Book a Flight\\LoginForm.resx",
-              "RelativeToolTip": "Book a Flight\\LoginForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-04-17T06:21:15.732Z",
-              "EditorCaption": ""
             }
           ]
         }

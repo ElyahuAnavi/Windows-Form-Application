@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Book a Flight")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pass Data Between Forms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0414091f2340b237f1de6224ab0c05ea02798733")]
-[assembly: System.Reflection.AssemblyProductAttribute("Book a Flight")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Book a Flight")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pass Data Between Forms")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pass Data Between Forms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
