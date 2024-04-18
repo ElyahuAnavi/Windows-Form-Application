@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 
 namespace Pass_Data_Between_Forms
 {
@@ -26,7 +27,9 @@ namespace Pass_Data_Between_Forms
 
         private void BtnSignUp_Click(object sender, EventArgs e)
         {
-
+            fName = TextFirstName.Text;
+            lName = TextLastName.Text;
+            emailAddress = TextEmail.Text;
         }
 
         private void ChkSmsNotifications_CheckedChanged(object sender, EventArgs e)

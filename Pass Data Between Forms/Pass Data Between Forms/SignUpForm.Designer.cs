@@ -31,9 +31,9 @@
             LblFirstName = new Label();
             TextFirstName = new TextBox();
             LblLastName = new Label();
-            textBox1 = new TextBox();
+            TextLastName = new TextBox();
             LblEmail = new Label();
-            textBox2 = new TextBox();
+            TextEmail = new TextBox();
             groupBox1 = new GroupBox();
             LblTransactionsReportsMessage = new Label();
             LblSmsMessage = new Label();
@@ -71,12 +71,12 @@
             LblLastName.TabIndex = 0;
             LblLastName.Text = "Last Name";
             // 
-            // textBox1
+            // TextLastName
             // 
-            textBox1.Location = new Point(490, 130);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(313, 27);
-            textBox1.TabIndex = 1;
+            TextLastName.Location = new Point(490, 130);
+            TextLastName.Name = "TextLastName";
+            TextLastName.Size = new Size(313, 27);
+            TextLastName.TabIndex = 1;
             // 
             // LblEmail
             // 
@@ -88,12 +88,12 @@
             LblEmail.TabIndex = 0;
             LblEmail.Text = "Email";
             // 
-            // textBox2
+            // TextEmail
             // 
-            textBox2.Location = new Point(490, 184);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(313, 27);
-            textBox2.TabIndex = 1;
+            TextEmail.Location = new Point(490, 184);
+            TextEmail.Name = "TextEmail";
+            TextEmail.Size = new Size(313, 27);
+            TextEmail.TabIndex = 1;
             // 
             // groupBox1
             // 
@@ -183,9 +183,9 @@
             ClientSize = new Size(1120, 635);
             Controls.Add(BtnSignUp);
             Controls.Add(groupBox1);
-            Controls.Add(textBox2);
+            Controls.Add(TextEmail);
             Controls.Add(LblEmail);
-            Controls.Add(textBox1);
+            Controls.Add(TextLastName);
             Controls.Add(LblLastName);
             Controls.Add(TextFirstName);
             Controls.Add(LblFirstName);
@@ -202,9 +202,9 @@
         private Label LblFirstName;
         private TextBox TextFirstName;
         private Label LblLastName;
-        private TextBox textBox1;
+        private TextBox TextLastName;
         private Label LblEmail;
-        private TextBox textBox2;
+        private TextBox TextEmail;
         private GroupBox groupBox1;
         private CheckBox ChkTransactionsReports;
         private CheckBox ChkReports;
